@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/paulAlvarezCaceres/pruebaconreactpaul.git/static/css/main.a617e044.chunk.css",
+    "main.js": "/paulAlvarezCaceres/pruebaconreactpaul.git/static/js/main.63ff3994.chunk.js",
+    "main.js.map": "/paulAlvarezCaceres/pruebaconreactpaul.git/static/js/main.63ff3994.chunk.js.map",
+    "runtime-main.js": "/paulAlvarezCaceres/pruebaconreactpaul.git/static/js/runtime-main.f570bf7b.js",
+    "runtime-main.js.map": "/paulAlvarezCaceres/pruebaconreactpaul.git/static/js/runtime-main.f570bf7b.js.map",
+    "static/js/2.9d5fdc26.chunk.js": "/paulAlvarezCaceres/pruebaconreactpaul.git/static/js/2.9d5fdc26.chunk.js",
+    "static/js/2.9d5fdc26.chunk.js.map": "/paulAlvarezCaceres/pruebaconreactpaul.git/static/js/2.9d5fdc26.chunk.js.map",
+    "static/js/3.f9fd3352.chunk.js": "/paulAlvarezCaceres/pruebaconreactpaul.git/static/js/3.f9fd3352.chunk.js",
+    "static/js/3.f9fd3352.chunk.js.map": "/paulAlvarezCaceres/pruebaconreactpaul.git/static/js/3.f9fd3352.chunk.js.map",
+    "index.html": "/paulAlvarezCaceres/pruebaconreactpaul.git/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/paulAlvarezCaceres/pruebaconreactpaul.git/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.9d5fdc26.chunk.js.LICENSE.txt": "/paulAlvarezCaceres/pruebaconreactpaul.git/static/js/2.9d5fdc26.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/paulAlvarezCaceres/pruebaconreactpaul.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f570bf7b.js",
+    "static/js/2.9d5fdc26.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.63ff3994.chunk.js"
+  ]
+}
